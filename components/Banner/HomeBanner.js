@@ -5,6 +5,7 @@ import { MotionBTTContainer, MotionInfiniteImage } from "@components/Motion";
 import { SectionContainer } from "@components/Section";
 import { PageTitle } from "@components/Title";
 import { Icon } from "@iconify/react";
+import { Luggage, Sparkles } from "lucide-react";
 import Image from "next/image";
 
 export const HomeBanner = () => {
@@ -15,6 +16,8 @@ export const HomeBanner = () => {
                 <MotionBTTContainer transition={{ delay: 0.2, duration: 0.5 }}>
                     <BadgeGroup alignment="center">
                         <BadgeMessage>
+                            <Sparkles className="inline fill-black-500 border-spacing-3 border-black" />
+                            <Luggage className="inline  border-spacing-3 border-black" />{" "}
                             Hassle free luggage handling!
                         </BadgeMessage>
                     </BadgeGroup>
@@ -51,7 +54,7 @@ export const HomeBanner = () => {
                 <MotionBTTContainer transition={{ delay: 0.8, duration: 0.5 }}>
                     <div className="page-banner--image">
                         <Image
-                            src="/nutritrack-hero-banner.png"
+                            src="/WhatsApp Image 2024-04-16 at 8.12.19 PM (1).jpeg"
                             width={1024}
                             height={680}
                             alt="Page Banner"

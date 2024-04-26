@@ -7,30 +7,31 @@ import clsx from "clsx";
 const accordionData = [
     {
         id: uuid(),
-        title: "What is Notion?",
+        title: "Where do you store your luggages?",
         isOpen: true,
         content:
-            "Notion is an all-in-one productivity tool that allows you to create notes, databases, and collaborative workspaces, making it easy to organize and manage your tasks, projects, and ideas in one place."
+            "Here at KKP luggages we safely store our customers luggages at secure dedicated warehouses"
     },
     {
         id: uuid(),
-        title: "Who is this template for?",
+        title: "How safe is your service?",
         isOpen: false,
         content:
-            "This template is specifically designed for Notion creators who want to create a personalized landing page for their Notion workspace, showcasing their projects, services, or content in a visually appealing manner."
+            "We a committed safe and responsible storage and delivery of all your personal belongings, our team carefully lable, record and sort all your luggages.."
     },
     {
         id: uuid(),
-        title: "Do I need to pay for this?",
-        isOpen: false,
-        content: "No, this is free."
-    },
-    {
-        id: uuid(),
-        title: "Where can I ask more questions about this template?",
+        title: "How much does it cost to store my luggages?",
         isOpen: false,
         content:
-            "If you have any further questions or need assistance regarding this template, please feel free to reach out to me on my website, or click the Contact within the navigation links."
+            "Pricing will depend on your luggage size , That said it is very affordable."
+    },
+    {
+        id: uuid(),
+        title: "Where is the pickup and delivery location?",
+        isOpen: false,
+        content:
+            "Your belongings will be picked up and deliverd at Katanga Hall ."
     }
 ];
 

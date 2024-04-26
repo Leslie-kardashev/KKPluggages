@@ -8,28 +8,28 @@ const ColumnData = [
         title: "Emily J.",
         icon: "carbon:user-avatar-filled-alt",
         content:
-            "NutriPlan has revolutionized my meal planning and nutrition journey. With its intuitive Notion template, I can effortlessly plan my meals, track my nutrition, and stay on top of my health goals. It's truly a game-changer!"
+            "KKP Luggages saved my day! As a frequent traveler, I often struggle with luggage logistics, but their seamless service made it a breeze. Highly recommended!"
     },
     {
         id: uuid(),
         title: "Jason F.",
         icon: "carbon:user-avatar-filled-alt",
         content:
-            "I've tried various meal planning tools, but NutriPlan stands out from the rest. The customizable layouts and seamless recipe integration make it a breeze to create delicious and healthy meals. It's become an essential part of my wellness routine."
+            "I can't thank KKP Luggages enough for their convenience and reliability. From drop-off to pick-up, everything was smooth sailing. Five stars!"
     },
     {
         id: uuid(),
-        title: "Miguel J.",
+        title: "Asante J.",
         icon: "carbon:user-avatar-filled-alt",
         content:
-            "NutriPlan has made meal planning and tracking nutrition so much easier and enjoyable. The comprehensive features and user-friendly interface have helped me stay on track with my health goals. I highly recommend it to anyone looking for a convenient and effective solution."
+            "KKP Luggages is a game-changer! No more dragging heavy bags around town. Their service is fast, secure, and affordable. Will definitely use again!"
     },
     {
         id: uuid(),
-        title: "Kim L.",
+        title: "Kwame Asamoah L.",
         icon: "carbon:user-avatar-filled-alt",
         content:
-            "I can't imagine my nutrition journey without NutriPlan. It has simplified the way I plan my meals and track my progress. The ability to customize layouts and easily integrate recipes has made healthy eating a breeze. It's been a true lifesaver!"
+            "Impressed by KKP Luggages' professionalism and efficiency. Whether you're a tourist or a local needing storage, they've got you covered. A must-try!"
     }
 ];
 

@@ -6,7 +6,7 @@ import { Icon } from "@iconify/react";
 
 const DATA = [
     {
-        title: "Template",
+        title: "Read",
         items: [
             {
                 label: "Testimonials",
@@ -71,7 +71,7 @@ export const Footer = () => {
                                 <ButtonGroup alignment="left">
                                     <a
                                         role="button"
-                                        href="https://github.com/christian-luntok/nutritrack"
+                                        href="#"
                                         className="btn btn--secondary"
                                     >
                                         Book Now
